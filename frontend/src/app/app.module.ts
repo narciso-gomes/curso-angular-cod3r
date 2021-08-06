@@ -10,6 +10,8 @@ import {MatSidenavModule} from "@angular/material/sidenav";
 import {MatListModule} from "@angular/material/list";
 import {NavComponent} from "./components/template/nav/nav.component";
 import {BrowserAnimationsModule} from "@angular/platform-browser/animations";
+import { HomeComponent } from './views/home/home.component';
+import {MatCardModule} from "@angular/material/card";
 
 
 @NgModule({
@@ -17,7 +19,8 @@ import {BrowserAnimationsModule} from "@angular/platform-browser/animations";
         AppComponent,
         HeaderComponent,
         FooterComponent,
-        NavComponent
+        NavComponent,
+        HomeComponent
     ],
     imports: [
         BrowserModule,
@@ -25,7 +28,8 @@ import {BrowserAnimationsModule} from "@angular/platform-browser/animations";
         MatToolbarModule,
         MatSidenavModule,
         MatListModule,
-        BrowserAnimationsModule
+        BrowserAnimationsModule,
+        MatCardModule
     ],
     providers: [],
     bootstrap: [AppComponent]
