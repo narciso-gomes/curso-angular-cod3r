@@ -4,11 +4,7 @@ CRUD completo de produtos desenvolvido durante do curso **ANGULAR 9 - ESSENCIAL*
 ensino [COD3R](https://www.cod3r.com.br/)
 
 ##  Demonstração do projeto
-
-
-
-https://user-images.githubusercontent.com/47224350/128635407-9168bd7e-3b6d-4fad-83d0-d31ee9b89d0a.mp4
-
+![2021-08-08 10-41-44 00_00_00-00_00_57](https://user-images.githubusercontent.com/47224350/128635485-d4f7586a-e60d-426b-ac5c-b41e67e2ea52.gif)
 
 
 ## 🚀 Começando
