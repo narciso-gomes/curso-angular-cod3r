@@ -2,38 +2,18 @@
   "products": [
     {
       "id": 2,
-      "name": "Notebook MAC PRO - Atualizado",
-      "price": 12000
-    },
-    {
-      "id": 2,
       "name": "Samsung S20",
       "price": 5000
     },
     {
-      "name": "sdf",
-      "price": 12,
+      "name": "SmartPhone APPLE 11",
+      "price": "12000",
       "id": 3
     },
     {
-      "name": "sdf",
-      "price": 12,
+      "name": "Mouse Gamer Longitec ME908",
+      "price": "190",
       "id": 4
-    },
-    {
-      "name": "",
-      "price": 0,
-      "id": 5
-    },
-    {
-      "name": "asdfasdf",
-      "price": "01231",
-      "id": 6
-    },
-    {
-      "name": "CAMISINHA",
-      "price": "123",
-      "id": 7
     }
   ]
 }
