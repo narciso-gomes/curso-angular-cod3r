@@ -7,6 +7,10 @@ ensino [COD3R](https://www.cod3r.com.br/)
 
 
 
+https://user-images.githubusercontent.com/47224350/128635407-9168bd7e-3b6d-4fad-83d0-d31ee9b89d0a.mp4
+
+
+
 ## 🚀 Começando
 
 Essas instruções permitirão que você obtenha uma cópia do projeto em operação na sua máquina local para fins de
